@@ -9,3 +9,14 @@ Output:
 'TomTimTinTik'
 
 */
+
+var numbers = ['Tom', 'Tim', 'Tin', 'Tik']
+
+
+
+let singleString = numbers.join('')
+
+
+console.log(singleString);
+
+
